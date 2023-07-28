@@ -1,7 +1,7 @@
 {
-  "name": "vue3-element-admin",
+  "name": "yunzhanyi-admin-ui",
   "private": true,
-  "version": "2.4.1",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "preinstall": "npx only-allow pnpm",
@@ -104,7 +104,7 @@
     "vue-tsc": "^1.6.5 "
   },
   "repository": "https://gitee.com/youlaiorg/vue3-element-admin.git",
-  "author": "有来开源组织",
+  "author": "bestct",
   "license": "MIT",
   "engines": {
     "node": ">=16.0.0"
